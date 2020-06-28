@@ -1,8 +1,14 @@
-.add-book{
-    display: none;
+table, th, td{
+    font-family: monospace;
+    font-size: 1.5rem;
+    border: 1px solid black;
+    border-color: black;
 }
 
-table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
+body{
+    margin-top: 10vh;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(180, 221, 161);
+    font-family: monospace;
 }
